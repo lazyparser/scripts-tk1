@@ -1,0 +1,24 @@
+[submodule "buildJetsonFTDIModule"]
+	path = buildJetsonFTDIModule
+	url = https://github.com/lazyparser/buildJetsonFTDIModule
+[submodule "installROS"]
+	path = installROS
+	url = https://github.com/lazyparser/installROS
+[submodule "buildJetsonTK1Kernel"]
+	path = buildJetsonTK1Kernel
+	url = https://github.com/lazyparser/buildJetsonTK1Kernel
+[submodule "installGrinch"]
+	path = installGrinch
+	url = https://github.com/lazyparser/installGrinch
+[submodule "installRealSenseCameraROS"]
+	path = installRealSenseCameraROS
+	url = https://github.com/jetsonhacks/installRealSenseCameraROS
+[submodule "jetsonGPIO"]
+	path = jetsonGPIO
+	url = https://github.com/jetsonhacks/jetsonGPIO
+[submodule "installROSPocketSphinx"]
+	path = installROSPocketSphinx
+	url = https://github.com/jetsonhacks/installROSPocketSphinx
+[submodule "installJetsonBot"]
+	path = installJetsonBot
+	url = https://github.com/jetsonhacks/installJetsonBot
